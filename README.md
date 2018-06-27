@@ -1,3 +1,3 @@
 # hello-world
 my first project on github
-My name is Joe Frank, I will be a master of Software Engineering!
+My name is Ryan Zhou, I will do something interesting.
